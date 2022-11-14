@@ -50,6 +50,12 @@ code, pre {
   padding: 10px;
 }
 
+.hidden {
+  display: none;
+  /* visibility: hidden;
+  height: 0; */
+}
+
 /* Navbar styling */
 
 .navbar {
